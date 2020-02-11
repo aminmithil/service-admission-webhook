@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: hello-world-test
+  labels:
+    app: hello-wolrd-test
+spec:
+  containers:
+  - name: hello-world
+    image: aminmithil/node-demo:latest
+    ports:
+    - containerPort: 8081
