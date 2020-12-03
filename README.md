@@ -23,3 +23,4 @@ DOCKER_USER=<docker-username> ./build
 ## Kudos
 1. https://banzaicloud.com/blog/k8s-admission-webhooks/
 2. https://medium.com/ovni/writing-a-very-basic-kubernetes-mutating-admission-webhook-398dbbcb63ec
+3. http://jsonpatch.com/
